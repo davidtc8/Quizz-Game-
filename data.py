@@ -1,14 +1,14 @@
 question_data = [
-{"text": "A slug's blood is green.", "answer": "True"},
-{"text": "The loudest animal is the African Elephant.", "answer": "False"},
-{"text": "Approximately one quarter of human bones are in the feet.", "answer": "True"},
-{"text": "The total surface area of a human lungs is the size of a football pitch.", "answer": "True"},
-{"text": "In West Virginia, USA, if you accidentally hit an animal with your car, you are free to take it home to eat.", "answer": "True"},
-{"text": "In London, UK, if you happen to die in the House of Parliament, you are entitled to a state funeral.", "answer": "False"},
+{"text": "Is black my fav color?.", "answer": "True"},
+{"text": "I like touching your hands, rather than your feet", "answer": "False"},
+{"text": "I like the way you laugh", "answer": "True"},
+{"text": "Every 9 of month we celebrate another month together", "answer": "False"},
+{"text": "I like watching comedy movies with you, because I like the way you laugh", "answer": "True"},
+{"text": "You almost fell naked in a random motel room, and you're the only one who laughed about it", "answer": "True"},
 {"text": "It is illegal to pee in the Ocean in Portugal.", "answer": "True"},
-{"text": "You can lead a cow down stairs but not up stairs.", "answer": "False"},
-{"text": "Google was originally called 'Backrub'.", "answer": "True"},
-{"text": "Buzz Aldrin's mother's maiden name was 'Moon'.", "answer": "True"},
-{"text": "No piece of square dry paper can be folded in half more than 7 times.", "answer": "False"},
-{"text": "A few ounces of chocolate can to kill a small dog.", "answer": "True"}
+{"text": "You are a jealous person.", "answer": "True"},
+{"text": "You get angry when I call 'cuchicuchi' to other imaginary girls.", "answer": "True"},
+{"text": "I don't like when you call me at night", "answer": "False"},
+{"text": "I really don't like the way you talk to me sometimes", "answer": "False"},
+{"text": "I prefer ur ass over ur boobs", "answer": "False"}
 ]
